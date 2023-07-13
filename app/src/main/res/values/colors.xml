@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mac">#E3B448</color>
+    <color name="blue">#6883BC</color>
+    <color name="window">#CBD18F</color>
+    <color name="white">#F4F2EF</color>
+    <color name="backgroundColor">#3A6B35</color>
+    <color name="raspberry">#000</color>
+    <color name="orange">#EFEE</color>
+
+</resources>

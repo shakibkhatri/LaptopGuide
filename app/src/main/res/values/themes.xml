@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LaptopGuide" parent="Theme.AppCompat">
+
+        <!-- Primary brand color. -->
+        <item name="colorOnPrimary">@color/raspberry</item>
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorSecondary">@color/blue</item>
+
+    </style>
+</resources>
